@@ -1,1 +1,5 @@
-# Sentiments_Analysis_using_twitter
+
+### Libraries used
+* Tweepy
+* TextBlob
+* Tkinter
